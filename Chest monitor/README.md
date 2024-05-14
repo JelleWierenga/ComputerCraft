@@ -14,6 +14,4 @@ With a nice little touch in the top right corner. there is a clock that shows th
 
 
 ## How to use this?
-Use a code editor of your choice(or put the code directly into the ccomputer in game)
-connect your code editor with the computer and run the code.
-a extra option(what i advise) is to put the code on a floppy disk(you know what that is?) to use it on multiple computers.
+run install.lua in your computer and watch the magic happen
