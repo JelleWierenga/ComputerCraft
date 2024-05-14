@@ -1,0 +1,11 @@
+local monitor = peripheral.wrap("right")
+monitor.clear()
+monitor.setTextScale(0.9)
+monitor.setCursorPos(1, 1)
+
+local date_time = os.date("%x\n%X")
+local date = os.date("%x")
+local time = os.date("%X")
+monitor.write(date)
+monitor.setCursorPos(1, 2)
+monitor.write(time)
